@@ -8,7 +8,7 @@
         padding-top: 40px;
         border: 3px solid grey;
         margin-bottom: 40px;
-        box-shadow: #312626 10px 10px 5px 5px;
+        box-shadow: #312626 10px 10px 0 0;
         mso-border-shadow: yes;
 
 }
@@ -23,7 +23,7 @@
     border: 3px solid grey;
     padding-top: 40px;
     margin-bottom: 40px;
-    box-shadow: #343131 10px 10px 5px 5px;
+    box-shadow: #343131 10px 10px 0 0;
 
 
 }
@@ -87,7 +87,6 @@
     height: 40px;
     text-align: center;
     color: white;
-    padding-top: 10px;
     margin-bottom: 20px;
 }
 

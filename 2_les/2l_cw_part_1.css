@@ -1,0 +1,55 @@
+.t1 {
+    background: black;
+    box-sizing: border-box;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    color: orange;
+    border: 3px solid orange;
+    border-radius: 25px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+}
+
+.t2 {
+    background: black;
+    box-sizing: border-box;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    color: deepskyblue;
+    border: 3px solid deepskyblue;
+    border-radius: 25px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+}
+
+.t3 {
+    background: black;
+    box-sizing: border-box;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    color: purple;
+    border: 3px solid palevioletred;
+    border-radius: 25px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+    padding-top: 15px;
+}
+
+.t4 {
+    background: black;
+    box-sizing: border-box;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    color: red;
+    border: 3px solid red;
+    border-radius: 25px;
+    margin-left: 500px;
+    margin-bottom: 60px;
+    padding-top: 15px;
+}
