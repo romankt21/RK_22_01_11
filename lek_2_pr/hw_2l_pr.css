@@ -1,0 +1,81 @@
+.task1 {
+
+    background: yellow;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding-top: 40px;
+    border: 3px solid grey;
+    margin-bottom: 40px;
+    box-shadow: #312626 10px 10px 5px 5px;
+    mso-border-shadow: yes;
+
+}
+
+.task2 {
+
+    background: #ffe702;
+    box-sizing: border-box;
+        text-align: center;
+    border: 3px solid grey;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: #343131 10px 10px 5px 5px;
+
+
+}
+
+.task3 {
+
+    background: #ffe702;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 3px solid grey;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: #343131 10px 10px 10px 10px;
+}
+
+.task4 {
+
+    background: #ffe702;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 3px solid grey;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: #9d9696 10px 10px 10px 10px;
+}
+
+.task5 {
+
+    background: #ffe702;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 3px solid grey;
+    border-radius: 10%;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: #343131 10px 10px 5px 5px;
+}
+
+.task6 {
+
+    background: #ffe702;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 3px solid grey;
+    border-radius: 10%;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: #9d9696 10px 10px 5px 5px;
+}

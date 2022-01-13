@@ -1,0 +1,132 @@
+.task1 {
+
+        background: yellow;
+        box-sizing: border-box;
+        height: 100px;
+        width: 100px;
+        text-align: center;
+        padding-top: 40px;
+        border: 3px solid grey;
+        margin-bottom: 40px;
+        box-shadow: #312626 10px 10px 5px 5px;
+        mso-border-shadow: yes;
+
+}
+
+.task2 {
+
+    background: #ffe702;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 3px solid grey;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: #343131 10px 10px 5px 5px;
+
+
+}
+
+.task3 {
+
+    background: #ffe702;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 3px solid grey;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: #343131 10px 10px 10px 10px;
+}
+
+.task4 {
+
+    background: #ffe702;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 3px solid grey;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: #9d9696 10px 10px 10px 10px;
+}
+
+.task5 {
+
+    background: #ffe702;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 3px solid grey;
+    border-radius: 10%;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: #343131 10px 10px 5px 5px;
+}
+.task6 {
+    background: #ffe702;
+    box-sizing: border-box;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 3px solid grey;
+    border-radius: 10%;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    box-shadow: #9d9696 10px 10px 5px 5px;
+}
+
+.task7 {
+
+    background: #b70e81;
+    box-sizing: border-box;
+    height: 40px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+
+.task8 {
+
+    background: grey;
+    box-sizing: border-box;
+    height: 60px;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 0;
+
+}
+
+.task9 {
+
+    background: #00b2ff;
+    box-sizing: border-box;
+    height: 100px;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 0;
+}
+
+.task10 {
+
+    background: green;
+    box-sizing: border-box;
+    height: 200px;
+    width: 200px;
+    margin-bottom: 0;
+}
+
+.task11 {
+
+    background: purple;
+    box-sizing: border-box;
+    height: 200px;
+    width: 200px;
+    border-radius: 5%;
+    margin-bottom: 0;
+}

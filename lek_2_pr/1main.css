@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+.task {
+    background: yellow;
+    height: 100px;
+    overflow: hidden;
+    width: 200px;
+}
