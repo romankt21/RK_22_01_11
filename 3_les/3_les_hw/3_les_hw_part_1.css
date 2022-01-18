@@ -1,0 +1,26 @@
+.A {
+    background: grey;
+    box-sizing: border-box;
+    height: 30%;
+    text-align: center;
+}
+
+
+
+
+
+.B {
+    background: grey;
+    box-sizing: border-box;
+    width: 50%;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.C {
+    background: grey;
+    box-sizing: border-box;
+    width: 50%;
+    text-align: center;
+    padding-top: 50px;
+}
