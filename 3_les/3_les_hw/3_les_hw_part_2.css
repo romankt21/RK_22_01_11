@@ -1,0 +1,40 @@
+.Header {
+    background: #0404e7;
+    box-sizing: border-box;
+    height: 20%;
+    text-align: center;
+    padding-top: 5%;
+}
+
+.Nav {
+    background: #02026c;
+    box-sizing: border-box;
+    height: 80px;
+    text-align: center;
+    /*padding-top: 5%;*/
+}
+
+
+.Main {
+    background: lightseagreen;
+    box-sizing: border-box;
+    width: 50%;
+    text-align: center;
+    padding-top: 18%;
+}
+
+.Aside {
+    background: #403696;
+    box-sizing: border-box;
+    width: 50%;
+    text-align: center;
+    padding-top: 18%;
+}
+
+.Footer {
+    background: lightblue;
+    box-sizing: border-box;
+    height: 100px;
+    text-align: center;
+    /*padding-top: 18%;*/
+}
