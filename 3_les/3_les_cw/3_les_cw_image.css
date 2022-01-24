@@ -1,0 +1,77 @@
+.Tit {
+    background: white;
+    box-sizing: border-box;
+    height: 100px;
+    /*text-align: center;*/
+    padding-top: 10px;
+}
+
+.Service_1 {
+    box-sizing: border-box;
+    border: 2px solid gray;
+    /*display: flex;*/
+    width:150px;
+    padding-top: 20px;
+    /*padding-left: 10px;*/
+    color: #b70e81;
+    /*flex-direction: column;*/
+    /*justify-content: center;*/
+}
+
+.Service_2 {
+    box-sizing: border-box;
+    border: 2px solid gray;
+    /*display: flex;*/
+    width:150px;
+    padding-top: 20px;
+
+    /*padding-left: 10px;*/
+    color: #b70e81;
+}
+
+.Service_3 {
+    box-sizing: border-box;
+    border: 2px solid gray;
+    /*display: flex;*/
+    width:150px;
+    padding-top: 20px;
+
+    /*padding-left: 10px;*/
+    color: #b70e81;
+}
+.Service_4 {
+    box-sizing: border-box;
+    border: 2px solid gray;
+    /*display: flex;*/
+    width:150px;
+    padding-top: 20px;
+
+    /*padding-left: 10px;*/
+    color: #b70e81;
+}
+
+
+.Par {
+box-sizing: border-box;
+width: 140px;
+background: white;
+color: grey;
+padding-right: 5px;
+    padding-left: 5px;
+text-align: justify;
+
+}
+
+.Leam_More {
+    box-sizing: border-box;
+
+    width: 100px;
+    background: #00b2ff;
+    color: white;
+    margin-left: 25px;
+    /*padding-left: 30px;*/
+    text-align: center;
+
+
+
+}

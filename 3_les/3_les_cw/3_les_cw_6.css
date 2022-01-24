@@ -1,0 +1,53 @@
+.Home {
+    background: #00b2ff;
+    box-sizing: border-box;
+
+    width: 50%;
+    /*text-align: center;*/
+    padding-top: 150px;
+}
+
+.About {
+    background: #00b2ff;
+    box-sizing: border-box;
+
+    width: 300px;
+    /*text-align: center;*/
+    padding-top: 150px;
+}
+
+.Kabobs {
+    background: #00b2ff;
+    box-sizing: border-box;
+height: 200px;
+    width: 600px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.Shishkabobs {
+    background: blue;
+    box-sizing: border-box;
+height: 200px;
+    width: 33%;
+    /*text-align: center;*/
+    padding-top:60px;
+}
+
+.BBQ {
+    background: blue;
+    box-sizing: border-box;
+    height: 200px;
+    width: 33%;
+    /*text-align: center;*/
+    padding-top:60px;
+}
+
+.Summer  {
+    background: blue;
+    box-sizing: border-box;
+    height: 200px;
+    width: 33%;
+    /*text-align: center;*/
+    padding-top:60px;
+}
