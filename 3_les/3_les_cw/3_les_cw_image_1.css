@@ -1,13 +1,15 @@
-.Tit {
-    background: orange;
+
+.image1 {
     box-sizing: border-box;
-    height: 20px;
+    height: 50px;
     width: 50px;
-   /*text-align: center;*/
-    padding-top: 10px;
+    background: white;
+    border: #312626 solid 2px;
     border-radius: 50%;
+    /*padding-right: 60px;*/
     position: relative;
-    top: 100px;
+    top: -20px;
+    right: 30px;
 }
 
 .Responsive_Design {
@@ -17,9 +19,8 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-end;
-    /*display: flex;*/
     width:150px;
-    padding-top: 20px;
+    padding-top: 5px;
     /*padding-left: 10px;*/
     color: #b70e81;
     /*flex-direction: column;*/
@@ -27,36 +28,57 @@
 
 }
 
-.Service_2 {
+.User_Interface_Design {
     box-sizing: border-box;
     border: 2px solid gray;
-    /*display: flex;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
     width:150px;
-    padding-top: 20px;
-
-    /*padding-left: 10px;*/
+    padding-top: 1px;
+    padding-left: 10px;
+    padding-bottom: 20px;
     color: #b70e81;
 }
-
-.Service_3 {
+.Web_Development{
     box-sizing: border-box;
     border: 2px solid gray;
-    /*display: flex;*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
     width:150px;
-    padding-top: 20px;
-
-    /*padding-left: 10px;*/
+    padding-top: 1px;
+    padding-left: 1px;
+    padding-bottom: 2px;
     color: #b70e81;
+        }
+
+.image2 {
+    box-sizing: border-box;
+    height: 50px;
+    width: 50px;
+    background: white;
+    border: #312626 solid 2px;
+    border-radius: 50%;
+    /*padding-right: 60px;*/
+    position: relative;
+    top: 1px;
+    right: 50px;
 }
-.Service_4 {
-    box-sizing: border-box;
-    border: 2px solid gray;
-    /*display: flex;*/
-    width:150px;
-    padding-top: 20px;
 
-    /*padding-left: 10px;*/
-    color: #b70e81;
+.image3 {
+    box-sizing: border-box;
+    height: 50px;
+    width: 50px;
+    background: white;
+    border: #312626 solid 2px;
+    border-radius: 50%;
+    /*padding-right: 60px;*/
+    position: relative;
+    top: -14px;
+    right: 50px;;
 }
 
 
@@ -73,10 +95,15 @@
 
 .Leam_More {
     box-sizing: border-box;
-height: 20px;
+    height: 10px;
     width: 80px;
-    background: #00b2ff;
-    color: white;
-    margin-left: 25px;
-    /*padding-left: 30px;*/
+    background: white;
+    border: 2px solid gray;
+    color: black;
+    /*margin-left: 15px;*/
+    padding-left: 5px;
+    margin-right: 20px;
     text-align: center;
+    padding-bottom: 50px;
+}
+

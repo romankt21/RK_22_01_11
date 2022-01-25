@@ -64,8 +64,8 @@ text-align: justify;
 
 .Leam_More {
     box-sizing: border-box;
-
-    width: 100px;
+    height: 10px;
+    width: 80px;
     background: #00b2ff;
     color: white;
     margin-left: 25px;
