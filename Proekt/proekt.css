@@ -1,0 +1,160 @@
+* {
+   font-family: 'Roboto', sans-serif;
+    padding: 0;
+
+}
+
+
+.wraper {
+   max-width: 1440px;
+   margin: 0 auto;
+}
+
+.top_bar {
+   height: 84px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+
+}
+.nav_menu {
+   display: flex;
+   align-items: center;
+
+
+}
+
+.header_logo {
+   display: flex;
+   align-items: center;
+
+}
+.nav_menu__iten {
+   display: flex;
+   column-gap: 20px;
+}
+.nav_menu__iten a {
+   display: flex;
+   /*font-style: normal;
+   font-weight: normal;*/
+  /*margin-left: 137px;*/
+
+   font-size: 16px;
+   line-height: 24px;
+   color: black;
+   text-decoration: none;
+   position: relative;
+   top: 1px;
+   right: -15px;
+
+}
+
+.nav_menu__iten_b {
+   display: flex;
+   column-gap: 10px;
+   margin-left: 63px;
+
+   font-size: 16px;
+   line-height: 24px;
+   color: black;
+   text-decoration: none;
+   position: relative;
+   top: 1px;
+   right: 3px;
+
+
+}
+
+.nav_button {
+    box-sizing: border-box;
+    display: flex;
+   align-items: center;
+    height: 54px;
+   width: 123px;
+   background-color: black;
+    color: white;
+
+    padding: 14px 20px;
+
+}
+
+.nav_button_start {
+   background-color: black;
+   color: white;
+   cursor: pointer;
+
+}
+
+.header_wrapp__content {
+
+   display: flex;
+   justify-content: space-between;
+}
+
+.header_content_tittle {
+   padding-top: 185px;
+    font-size: 60px;
+   line-height: 64px;
+    letter-spacing: 1px;
+    color: #0B2330;
+   margin-bottom: 32px;
+   margin-left: 147px;
+   margin-right: 147px;
+}
+
+.text {
+   font-size: 22px;
+   line-height: 32px;
+     color: #375361;
+   margin-left: 147px;
+   margin-right: 147px;
+    margin-bottom: 0;
+
+}
+
+.header_botton_bottom {
+    display: flex;
+    column-gap: 45px;
+    margin-top: 53px;
+    margin-left: 147px;
+}
+
+.button_start {
+    box-sizing: border-box;
+    background: #F9C600;
+    height: 54px;
+    width: 163px;
+    padding: 15px 29px;
+
+}
+
+.button1 {
+    box-sizing: border-box;
+    background-color: #F9C600;
+    color: black;
+    cursor: pointer;
+    border: 3px solid #F9C600;
+    height: 24px;
+    width: 105px;
+}
+
+.button_talk {
+    box-sizing: border-box;
+    background: white;
+    height: 54px;
+    width: 156px;
+    color: white;
+    border: 2px solid black;
+    padding: 14px 20px;
+
+}
+
+.button2 {
+    box-sizing: border-box;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    border: 3px solid white;
+    height: 24px;
+    width: 98px;
+}
