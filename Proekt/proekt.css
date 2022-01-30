@@ -38,7 +38,7 @@
     right: -15px;
 }
 
-.nav_menu__iten_a {
+.nav_menu__iten a {
    display: flex;
    /*font-style: normal;
    font-weight: normal;*/
@@ -141,6 +141,8 @@
     border: 3px solid #F9C600;
     height: 24px;
     width: 105px;
+    font-size: 16px;
+    line-height: 24px;
 }
 
 .button_talk {
@@ -162,6 +164,8 @@
     border: 3px solid white;
     height: 24px;
     width: 98px;
+    font-size: 16px;
+    line-height: 24px;
 }
 
 .content {
@@ -210,9 +214,48 @@
     margin-top: 192px;
     margin-left: 32px;
     margin-right: 32px;
-    margin-bottom: 191px;
-    width: 494px;
-    height: 1376px;
+    /*margin-bottom: 191px;*/
+    height: 494px;
+    width: 1376px;
 
+}
 
+.content_text {
+
+    position: absolute;
+    width: 731px;
+    height: 80px;
+    font-size: 34px;
+    line-height: 40px;
+    text-align: center;
+    letter-spacing: 0.34px;
+    color: red;
+    margin: 191px 364px 57px 365px;
+
+}
+
+.chart_image {
+    margin: 328px 264px 100px 265px;
+
+}
+
+.button_start3 {
+    box-sizing: border-box;
+    background: #F9C600;
+    height: 54px;
+    width: 163px;
+    padding: 15px 29px;
+    margin: 98px 653px 131px 652px;
+}
+.button3 {
+    box-sizing: border-box;
+    background-color: #F9C600;
+    color: black;
+    cursor: pointer;
+    border: 3px solid #F9C600;
+    height: 24px;
+    width: 105px;
+    font-size: 16px;
+    line-height: 24px;
+    /*margin: 127px 668px 160px 667px;*/
 }
